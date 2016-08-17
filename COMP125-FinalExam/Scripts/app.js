@@ -1,3 +1,16 @@
+/**
+ * FileName: app.js
+ * 
+ * @author Hina Patel
+ * @date Aug 17, 2016
+ * 
+ * StudentID: 821021425http://comp125-finalexam-821021425.azurewebsites.net
+ * website: 
+ * @description This file is the main javascript file for the web site
+ */
+  
+ // IIFE - Immediately Invoked Function Expression
+
 var core;
 (function (core) {
     "use strict";
